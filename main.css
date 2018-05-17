@@ -1,0 +1,11 @@
+@font-face {
+        font-family: "GUBBLO";
+        src: url("./GUBBLO___.ttf");
+}
+
+h1 {
+    font-family: 'GUBBLO';
+    font-size: 150px;
+    color: rgba(185, 56, 4, 0.959);
+}
+
